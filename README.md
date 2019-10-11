@@ -9,4 +9,9 @@ Steps:
 * Save the trained model file
 * Upload the pre-trained model to S3
 * Set up hosting for the model
+* Create endpoint configuration
+* Create endpoint
+* Create endpoint
+* Post process the output
+* Delete the Endpoint
 
