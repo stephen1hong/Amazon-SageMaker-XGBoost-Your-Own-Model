@@ -7,3 +7,6 @@ Steps:
 * Prepare the dataset for training
 * Train the XGBClassifier
 * Save the trained model file
+* Upload the pre-trained model to S3
+* Set up hosting for the model
+
